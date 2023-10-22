@@ -180,11 +180,11 @@ drug_ranking/
 ├── Drugs_DrugBank.txt           <- Drug data in DrugBank
 ├── Drugs_TTD.txt                <- Drug data in TTD
 ├── Drugs_supp_TTD.txt           <- Supplementary drug data in TTD
-├── mapDrugs.R                   <- Script for constracting the DTN
+├── mapDrugs.R                   <- Script for constructing the DTN
 ├── enm/                         <- Enm class and related functions
 ├── predict_binding_affinity.py  <- Script for predicting binding affinity for each DTI
 ├── calculate_PRS.py             <- Script for calculating the ps score for each DTI and PS score for each drug
-└── runDrugScoring.R             <- Script for drug scoring in R and calling Python scripts.
+└── runDrugScoring.R             <- Script for calling Python scripts and perform drug scoring in R
 ```
 
 #### Usage Example
