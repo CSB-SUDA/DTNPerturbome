@@ -184,7 +184,7 @@ drug_ranking/
 ├── enm/                         <- Enm class and related functions
 ├── predict_binding_affinity.py  <- Script for predicting binding affinity for each DTI
 ├── calculate_PRS.py             <- Script for calculating the ps score for each DTI and PS score for each drug
-└── runDrugScoring.R             <- Script for calling Python scripts and perform drug scoring in R
+└── runDrugScoring.R             <- Script for calling Python scripts and performing drug scoring in R
 ```
 
 #### Usage Example
